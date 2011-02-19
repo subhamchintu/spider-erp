@@ -1,4 +1,5 @@
 -- Examples for queries that exercise different SQL objects implemented by this assembly
+--baskar
 
 -----------------------------------------------------------------------------------------
 -- Stored procedure
